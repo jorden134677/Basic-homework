@@ -4,5 +4,6 @@
 
 int main(int argc, char** argv) {
 	printf("Hello world 3A713207");
+	system("pause");
 	return 0;
 }
